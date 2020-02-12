@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/ReactJira/static/js/main.57c2286f.chunk.js",
-    "main.js.map": "/ReactJira/static/js/main.57c2286f.chunk.js.map",
-    "runtime-main.js": "/ReactJira/static/js/runtime-main.ded9d867.js",
-    "runtime-main.js.map": "/ReactJira/static/js/runtime-main.ded9d867.js.map",
-    "static/js/2.21bd42f5.chunk.js": "/ReactJira/static/js/2.21bd42f5.chunk.js",
-    "static/js/2.21bd42f5.chunk.js.map": "/ReactJira/static/js/2.21bd42f5.chunk.js.map",
+    "main.js": "/ReactJira/static/js/main.215253b3.chunk.js",
+    "main.js.map": "/ReactJira/static/js/main.215253b3.chunk.js.map",
+    "runtime-main.js": "/ReactJira/static/js/runtime-main.a7ffc5df.js",
+    "runtime-main.js.map": "/ReactJira/static/js/runtime-main.a7ffc5df.js.map",
+    "static/js/2.7f01446f.chunk.js": "/ReactJira/static/js/2.7f01446f.chunk.js",
+    "static/js/2.7f01446f.chunk.js.map": "/ReactJira/static/js/2.7f01446f.chunk.js.map",
     "index.html": "/ReactJira/index.html",
-    "precache-manifest.ea5ef3cf6d091b805bf2b76350beba1d.js": "/ReactJira/precache-manifest.ea5ef3cf6d091b805bf2b76350beba1d.js",
+    "precache-manifest.2c33d1420ee08d601a2f7e06cda2f082.js": "/ReactJira/precache-manifest.2c33d1420ee08d601a2f7e06cda2f082.js",
     "service-worker.js": "/ReactJira/service-worker.js",
-    "static/js/2.21bd42f5.chunk.js.LICENSE": "/ReactJira/static/js/2.21bd42f5.chunk.js.LICENSE",
+    "static/js/2.7f01446f.chunk.js.LICENSE": "/ReactJira/static/js/2.7f01446f.chunk.js.LICENSE",
     "static/media/jpt_logo2.png": "/ReactJira/static/media/jpt_logo2.4a4f9823.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ded9d867.js",
-    "static/js/2.21bd42f5.chunk.js",
-    "static/js/main.57c2286f.chunk.js"
+    "static/js/runtime-main.a7ffc5df.js",
+    "static/js/2.7f01446f.chunk.js",
+    "static/js/main.215253b3.chunk.js"
   ]
 }
